@@ -22,3 +22,4 @@ title = '兰州流浪动物保护在行动'
 白岩松说:“善待生命，生命也会善待你。对动物管理，出台相关的法律政策并不是一件太复杂的事，更重要的是要学会敬畏每一条生命，对动物多一点包容，共同努力才能推动城市发展，提高人们幸福感。”
 
 <iframe src="//player.bilibili.com/player.html?aid=580116098&bvid=BV1j64y1W7xT&cid=1374820502&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width='800px' height='600px'> </iframe>
+（文：罗漪雯  视频：黄丽芳）

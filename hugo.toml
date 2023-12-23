@@ -1,5 +1,7 @@
 baseURL = 'https://ice-mixture.github.io/omg//'
 languageCode = 'en-us'
+hasCJKLanguage = true
+summaryLength = 30
 publishDir = "docs"
 title = 'My New Hugo Site'
 theme = 'ananke'
